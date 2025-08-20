@@ -1,4 +1,4 @@
-# Student Management System (C++)
+# Student Record Management System (C++)
 
 This is a simple **Student Record Management System** built in C++ using file handling.
 It allows users to **add**, **view**, and **search** student records, storing data in a text file (`stuData.txt`).
